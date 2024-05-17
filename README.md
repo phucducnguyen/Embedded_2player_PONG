@@ -1,4 +1,5 @@
-# PONG Game for 2 Players on Nexys A7 100T with Cortex-M0
+# PONG Game for 2 Players
+## Nexys A7 100T with Cortex-M0
 
 ## Project Overview
 
