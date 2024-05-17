@@ -14,7 +14,6 @@ This project implements a classic two-player PONG game on the Nexys A7 100T FPGA
 - [Building and Running the Project](#building-and-running-the-project)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -47,7 +46,7 @@ Before you begin, ensure you have the following:
 3. **Clone this repository**: Download the project files from the repository or clone it using Git.
 
 ```sh
-git clone https://github.com/yourusername/pong-nexys-a7.git
+git clone https://github.com/PONG_2players/PONG_2players.git
 ```
 
 ## Building and Running the Project
